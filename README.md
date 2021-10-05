@@ -1,1 +1,3 @@
 # Detecting-Air-Leakage-in-Pneumatic-Systems
+
+This study aimed to improve the pneumatic air brake system of a heavy-duty truck by detecting air leakage using pressure and flow sensors. The system is composed of mechanical and pneumatic subsystems. The model was constructed using MATLAB Simulink to obtain the dynamic response. The system had some oscillations. Next, the sensors to be used were found and chosen according to their working range. After that, the chosen sensors were included in the pneumatic system model as a gain block to get the improved system response. The results showed that the oscillations were decreased significantly and the steady-state is reached faster. Finally, this study was concluded by making electrical connections to the sensors.
